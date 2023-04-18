@@ -1,9 +1,11 @@
 # DataScience02Classification
-This deploy uses a model (Random Forest Classifier) to predict the wheather of the image the user upload (there are 4 clases)
+This deploy uses a model (Random Forest Classifier) to predict the wheather of the image the user upload.
+There are 4 classes: Cloudy, Rain, Shine and Sunrise, the user should upload a .jpg image to test the model predicting the weather of the iamge uploaded.
 
 ## Download the dataset with:
 !kaggle datasets download -d pratik2901/multiclass-weather-dataset 
-### Then call the path unziped "data"
+#### Then call the path unziped "data"
 
-Also this is the link of the kaggle dataset:
+### Also this is the link of the kaggle dataset:
+
 https://www.kaggle.com/datasets/pratik2901/multiclass-weather-dataset?resource=download
