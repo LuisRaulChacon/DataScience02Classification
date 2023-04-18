@@ -9,3 +9,14 @@ There are 4 classes: Cloudy, Rain, Shine and Sunrise, the user should upload a .
 ### Also this is the link of the kaggle dataset:
 
 https://www.kaggle.com/datasets/pratik2901/multiclass-weather-dataset?resource=download
+
+# Proyecto de clasificación
+
+#### Universidad Autónoma de Chihuahua
+### Materia: Data Science
+
+## Docente: Jesús Roberto López Santillan
+
+## Alumnos: 
+### Luis Raúl Chacón Muñoz - 339011
+### David Eduardo Hernández García - 338953
