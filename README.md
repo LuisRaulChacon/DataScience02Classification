@@ -20,3 +20,6 @@ https://www.kaggle.com/datasets/pratik2901/multiclass-weather-dataset?resource=d
 ## Alumnos: 
 ### Luis Raúl Chacón Muñoz - 339011
 ### David Eduardo Hernández García - 338953
+
+### Try the app:
+https://luisraulchacon-datascience02classification-myapp-9e31sd.streamlit.app/
